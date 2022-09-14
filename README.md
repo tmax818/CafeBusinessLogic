@@ -10,7 +10,7 @@
 
 ## Assignment Tasks
 
-- [ ] Create a `CafeUtil` class and a testing file.
+- [ ] Create a [`CafeUtil`](src/CafeUtil.java) class and a testing file, [`TestCafe`](src/TestCafe.java).
 
 - [ ] Implement the `getStreakGoal` method and test.
 

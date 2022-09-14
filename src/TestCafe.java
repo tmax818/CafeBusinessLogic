@@ -3,10 +3,10 @@ import java.util.Arrays;
 public class TestCafe {
     public static void main(String[] args) {
 
-    /*
-      You will need to add 1 line to this file to create an instance
-      of the CafeUtil class.
-      Hint: it will need to correspond with the variable name used below..
+    /**
+      * You will need to add 1 line to this file to create an instance
+      * of the CafeUtil class.
+      * Hint: it will need to correspond with the variable name used below..
     */
         CafeUtil appTest = new CafeUtil();
         /* ============ App Test Cases ============= */

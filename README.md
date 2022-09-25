@@ -12,12 +12,12 @@
 
 - [ ] Create a [`CafeUtil`](src/CafeUtil.java) class and a testing file, [`TestCafe`](src/TestCafe.java).
 
-- [ ] Implement the `getStreakGoal` method and test.
+- [ ] Implement the `getStreakGoal` [method](src/CafeUtil.java) and test.
 
-- [ ] Implement the `printPriceChart` method and test.
+- [ ] Implement the `printPriceChart` [method](src/CafeUtil.java) and test.
 
-- [ ] Implement the `getOrderTotal` method and test.
+- [ ] Implement the `getOrderTotal` [method](src/CafeUtil.java) and test.
 
-- [ ] Implement the `displayMenu` method and test.
+- [ ] Implement the `displayMenu` [method](src/CafeUtil.java) and test.
 
-- [ ] Implement the `addCustomer` method and test.
+- [ ] Implement the `addCustomer` [method](src/CafeUtil.java) and test.

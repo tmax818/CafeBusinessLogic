@@ -4,62 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6ffc69b-67a9-453c-a176-b1a6c15be12c" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/docs/CafeUtil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/TestCafe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/allclasses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/external/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jquery-3.5.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jquery-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jquery-ui.structure.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jquery-ui.structure.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jszip/dist/jszip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/jquery/jszip/dist/jszip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/member-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/package-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/resources/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/resources/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/type-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/type-search-index.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CafeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CafeUtil.java" afterDir="false" />
+    <list default="true" id="b6ffc69b-67a9-453c-a176-b1a6c15be12c" name="Changes" comment="add javadocs to main">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCafe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +39,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -126,6 +73,7 @@
       <workItem from="1663162163787" duration="378000" />
       <workItem from="1663165190297" duration="4067000" />
       <workItem from="1663180542360" duration="1859000" />
+      <workItem from="1664125958553" duration="402000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1663162182124</created>
@@ -155,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663179729384</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add javadocs to main">
+      <created>1664126186346</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664126186346</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +133,7 @@
     <MESSAGE value="add README.md" />
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="add javadocs to main" />
+    <option name="LAST_COMMIT_MESSAGE" value="add javadocs to main" />
   </component>
 </project>

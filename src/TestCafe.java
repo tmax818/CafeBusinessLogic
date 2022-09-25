@@ -1,5 +1,10 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+
+/**
+ * This class is for testing code written in {@link CafeUtil}
+ *
+ */
 public class TestCafe {
     public static void main(String[] args) {
 

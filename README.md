@@ -1,5 +1,7 @@
 # Café Business Logic
 
+## solution
+
 ## Objectives:
 - Write methods to solve basic logic problems in Java.
 - Practice `Array` and `ArrayList`.
